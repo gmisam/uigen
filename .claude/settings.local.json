@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run setup:*)",
+      "WebFetch(domain:pris.ly)",
+      "Bash(npm run dev:*)",
+      "mcp__playwright"
+    ]
+  }
+}
